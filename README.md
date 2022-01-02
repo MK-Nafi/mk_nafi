@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nafi
+- 👋 Hi, I’m Nafi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
